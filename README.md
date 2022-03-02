@@ -23,7 +23,7 @@ TandomFandom is MERN stack app, was made combining a Node.js/Express.js server w
 
 ## Deployment
 
-TandemFandem is deployed on Heroku at: https://tandemfandom.herokuapp.com/
+TandemFandem is deployed on Heroku at: https://agile-badlands-21099.herokuapp.com/
 
 ## Installation
 
